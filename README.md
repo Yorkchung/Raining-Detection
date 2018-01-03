@@ -1,2 +1,2 @@
-# A-Moving-Bottom
-一個可以動的底盤
+# A-Raining-Detection
+一個下雨偵測的助理
